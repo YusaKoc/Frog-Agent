@@ -8,7 +8,7 @@ A fun, secret-word party game built with Flutter. Designed for 3–12 players on
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YusaKoc/Agent-Frog.git
+   git clone https://github.com/YusaKoc/Frog-Agent.git
    ```
 
 2. **Install dependencies:**
@@ -25,7 +25,7 @@ A fun, secret-word party game built with Flutter. Designed for 3–12 players on
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
