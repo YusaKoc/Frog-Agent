@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "309754016215",
+    "project_id": "frog-agent-d1ff9",
+    "storage_bucket": "frog-agent-d1ff9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309754016215:android:556cdf3341efbe73ecdb92",
+        "android_client_info": {
+          "package_name": "com.yusakoc.frog_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309754016215-ohio1fhe1tad217oteav5ccir4b8rq2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yusakoc.frog_agent",
+            "certificate_hash": "f853aee4e22ee2c608727a1ddc4b88c32f74a87c"
+          }
+        },
+        {
+          "client_id": "309754016215-4jav5p5tk2p79eaome54ktovb3al5loo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDns4fOyO6VrBXC8LxmIubNAxazZyWXp3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309754016215-4jav5p5tk2p79eaome54ktovb3al5loo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309754016215-jm8rt6tajck999561mflvhkfiv6f9hv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yusakoc.frogAgent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
