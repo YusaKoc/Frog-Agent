@@ -40,4 +40,8 @@ class GroupCubit extends Cubit<GroupState> {
   Future<void> clearLastUsed() async => repo.clearLastGroupId();
 
   String? getLastUsed() => repo.getLastGroupId();
+
+  void setSearchQuery(String query) {
+    emit(state.copyWith(searchQuery: query));
+  }
 }
